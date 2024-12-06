@@ -1,2 +1,2 @@
-# Custom-Settings-&-Layout
-Settings.zip file for Jetbrain's rider IDE and custom layout for unity game engine.
+# Development tool settings
+This repository contains backup of different settings that I use for certain development tools.
